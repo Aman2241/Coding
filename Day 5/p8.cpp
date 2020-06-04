@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
  
- string s1="abba";
+ string s1="aman";
 
  string :: reverse_iterator it=s1.rbegin();
 
