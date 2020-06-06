@@ -10,10 +10,6 @@ are 1, 3, 4, 12, 13, 39, 40, 120 respectively.
 Sum of divisors of all the divisors of 54 = 
 1 + 3 + 4 + 12 + 13 + 39 + 40 + 120 = 232.
 
-
-
-
-
 */
 #include<bits/stdc++.h>
 using namespace std;
