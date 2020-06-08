@@ -10,7 +10,7 @@ int main()
 
  cout<<x<<endl;   //print nearest value
  
- cout<<::x<<endl;
+ cout<<::x<<endl; //print global value with the help of scope resolution operator
  
  
 return 0;
