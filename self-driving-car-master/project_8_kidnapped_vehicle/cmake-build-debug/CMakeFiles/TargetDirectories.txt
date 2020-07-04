@@ -1,3 +1,0 @@
-/home/minotauro/code/CarND-Kidnapped-Vehicle-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/minotauro/code/CarND-Kidnapped-Vehicle-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/minotauro/code/CarND-Kidnapped-Vehicle-Project/cmake-build-debug/CMakeFiles/particle_filter.dir
