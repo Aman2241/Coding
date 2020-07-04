@@ -1,0 +1,1 @@
+This is a chrome extension to download a bunch of image one at a time.
